@@ -1,0 +1,26 @@
+name: PravenLohnSystem
+author: Cano
+version: 1
+main: de.can.pravenlohnsystem.Main
+permissions:
+  pravenlohnsystem.*:
+    description: Erteilt löhne
+    children:
+      pravenlohnsystem.redaktionschef: true
+      pravenlohnsystem.ressourcensammler: true
+      pravenlohnsystem.landwirt: true
+      pravenlohnsystem.marktführer: true
+      pravenlohnsystem.finanzminister: true
+      pravenlohnsystem.wache: true
+      pravenlohnsystem.richter: true
+      pravenlohnsystem.wachtmeister: true
+      pravenlohnsystem.architekt: true
+      pravenlohnsystem.wirt: true
+      pravenlohnsystem.koenig: true
+      pravenlohnsystem.buerger: true
+      pravenlohnsystem.harenaesteuer: true
+      pravenlohnsystem.akanonsteuer: true
+      pravenlohnsystem.glaciessteuer: true
+commands:
+  lohn:
+    description: Erteilt alle 24 Stunden den Lohn

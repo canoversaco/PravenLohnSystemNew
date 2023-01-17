@@ -1,0 +1,48 @@
+Loehne:
+   Harenae:
+     Buerger: 30
+     Redaktionschef: 60
+     Ressourcensammler: 35
+     Landwirt: 35
+     Marktführer: 100
+     Finanzminister: 125
+     Wächter: 50
+     Richter: 80
+     Wachtmeister: 80
+     Architekt: 0
+     Wirt: 60
+     Koenig: 150
+   Akanon:
+     Buerger: 30
+     Redaktionschef: 60
+     Ressourcensammler: 35
+     Landwirt: 35
+     Marktführer: 100
+     Finanzminister: 125
+     Wächter: 50
+     Richter: 80
+     Wachtmeister: 80
+     Architekt: 0
+     Wirt: 60
+     Koenig: 150
+   Glacies:
+     Buerger: 30
+     Redaktionschef: 60
+     Ressourcensammler: 35
+     Landwirt: 35
+     Marktführer: 100
+     Finanzminister: 125
+     Wächter: 50
+     Richter: 80
+     Wachtmeister: 80
+     Architekt: 0
+     Wirt: 60
+     Koenig: 150
+Steuern:
+  Steuersatzharenae: 0.5
+  Steuersatzakanon: 0.5
+  Steuersatzglacies: 0.5
+Könige:
+  Harenae: Dxgxng
+  Akanon: Kirads
+  Glacies: Cano453
